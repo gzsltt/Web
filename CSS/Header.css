@@ -1,0 +1,10 @@
+#Header{
+	height:150px;
+	background-color:#CCC;
+}
+#Header h1{
+	font-size:30px;
+	text-align:center;
+	margin-top:50px;
+	z-index:101;
+}
