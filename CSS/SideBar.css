@@ -1,0 +1,30 @@
+#SideBar{
+	width:150px;
+	height:400px;
+	background-color:#000;
+	float:left;	
+	}
+#SideBar ul{
+	margin:0;
+	padding:0;
+}
+
+#SideBar li{
+	list-style-type:none;
+	float:left;
+	display:block;
+	width:150px;
+	height:100px;
+	text-align:center;
+	line-height:80px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:20px;
+}
+
+#SideBar li a{
+	text-decoration:none;
+	color:#FFF;
+}
+#Side li:Hover{
+	background-color:#99C;
+}
