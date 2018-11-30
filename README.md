@@ -8,3 +8,6 @@ code练习
 
 11.28
 写了sidebar以及mainbody
+
+11.29
+写了sidebar的link 改了Menu 写了一些Gallery.html
