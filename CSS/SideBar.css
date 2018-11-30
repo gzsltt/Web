@@ -1,6 +1,6 @@
 #SideBar{
 	width:150px;
-	height:400px;
+	height:800px;
 	background-color:#000;
 	float:left;	
 	}
@@ -25,6 +25,6 @@
 	text-decoration:none;
 	color:#FFF;
 }
-#Side li:Hover{
-	background-color:#999;
+#SideBar li:Hove
+{background-color:#999;
 }

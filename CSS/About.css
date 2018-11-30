@@ -1,0 +1,45 @@
+#Container{
+	width:800px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:11px;
+	margin-bottom:21px;
+}
+
+#Header{
+	height:150px;
+	background-color:#CCC;
+}
+#Menu {
+	height:60px;
+	background-color:#000;
+}
+#SideBar{
+	width:150px;
+	height:800px;
+	float:left;	
+	
+	}
+#MainBody{
+	width:650px;
+	height:800px;
+	float:right;
+	z-index:1;
+	background-color:#666;
+}
+#Footer{
+	height:100px;
+	margin-bottom:21px;
+	background-color:#CCC;
+	clear:both;	
+	}
+.p1 {
+	font-size:30px;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align:left;
+}
+.img1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 30px;
+}
