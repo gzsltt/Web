@@ -11,3 +11,6 @@ code练习
 
 11.29
 写了sidebar的link 改了Menu 写了一些Gallery.html
+
+3月份
+新学期学了很多前端有关的技术！
