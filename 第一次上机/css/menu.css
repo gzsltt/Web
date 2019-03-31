@@ -1,0 +1,16 @@
+/* CSS Document */
+#dingqibaogao ul li
+{
+	color:#F00;
+}
+
+#dingqibaogao ul li span
+{
+	color:#666;
+	font-family:Microsoft YaHei;
+}
+
+#touzizheguanxi ul li
+{
+	list-style:none;
+}
