@@ -1,0 +1,50 @@
+
+<view class='upperbox'>
+  <swiper indicator-dots autoplay='ture' circular='true' interval='6000' duration='3000'>
+        <swiper-item>
+          <image src='../../images/home/swiper1.jpg'></image>
+        </swiper-item>
+        <swiper-item>
+          <image src='../../images/home/swiper2.jpg'></image>
+        </swiper-item>
+        <swiper-item>
+          <image src='../../images/home/swiper3.jpg'></image>
+        </swiper-item>
+      </swiper>
+</view>
+
+<view class='column'>
+  <image src='../../images/home/column1.jpg'></image>
+  <view class='words'>
+    <text class='title'>秋季自然美甲\n</text>
+    <text class='red'>价格：￥198\n</text>
+    <text class='gray'>我们追求的是没有最长只有更长！\n</text>
+  </view>
+  <view class='yuyue'>
+    <image src='../../images/home/yuyue.png'></image>
+  </view>
+</view>
+
+<view class='column'>
+  <image src='../../images/home/column2.jpg'></image>
+    <view class='words'>
+      <text class='title'>睫毛稀疏 种睫毛来帮忙\n</text>
+      <text class='red'>价格：￥8888\n</text>
+      <text class='gray'>我们追求的是没有最长只有更长！\n</text>
+    </view>
+    <view class='yuyue'>
+      <image bindtap='wx.showToast()' src='../../images/home/yuyue.png'></image>
+    </view>
+</view>
+
+<view class='column'>
+  <image src='../../images/home/column3.png'></image>
+    <view class='words'>
+      <text class='title'>爱丽克EircParisSaion\n</text>
+      <text class='red'>价格：￥1588\n</text>
+      <text class='gray'>我们追求的是没有最长只有更长！\n</text>
+    </view>
+    <view class='yuyue'>
+      <image src='../../images/home/yuyue.png'></image>
+    </view>
+</view>

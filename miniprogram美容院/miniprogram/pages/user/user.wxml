@@ -1,0 +1,29 @@
+<!--index.wxml-->
+<view class='bg'>
+<view class='aboutme'>
+<image class='avatar' src='http://imgsrc.baidu.com/imgad/pic/item/77094b36acaf2edd92e640f7871001e93901939c.jpg'></image>
+<text class='username'>用户名：喜欢美容的猫</text>
+</view>
+<view class='category2'>
+<text class='yue'>余额</text>
+<image class='pocketimg' src='http://images.669pic.com/element_pic/9/40/31/80/42c2543f6fd4520cc65927dcb063d816.jpg'></image>
+<text class='number'>:10000</text>
+</view>
+<view class='category2'>
+<text class='yue'>预约信息</text>
+<image class='yuyueimg' src='http://pic.51yuansu.com/pic/cover/00/01/69/5710c760c774d_610.jpg'></image>
+</view>
+<view class='category2'>
+<text class='yue'>好友数量</text><image class='haoyouimg' src='http://img2.imgtn.bdimg.com/it/u=24806328,2661366854&fm=26&gp=0.jpg'></image>
+<text class='hynumber'>:66</text>
+</view>
+
+<view class='category2'><text class='yue'>真实姓名</text>
+<image class='haoyouimg' src='http://5b0988e595225.cdn.sohucs.com/images/20180328/a6f38a3a58674a0a94e34f251faea804.png'></image>
+<text class='hynumber'>:张飞</text>  
+</view>
+<view class='category2'><text class='yue'>联系我们</text>
+<image class='haoyouimg' src='http://ku.90sjimg.com/element_origin_min_pic/18/07/02/d71c9d9f899236ccd55fda768766ec25.jpg'></image>
+<text class='hynumber'>:666666666</text>  
+</view>
+</view>

@@ -1,0 +1,76 @@
+/**index.wxss**/
+.bg
+{
+  background-color: gainsboro;
+}
+.aboutme
+{
+  height: 140px;
+  background-color:whitesmoke;
+}
+.avatar{
+  position: absolute;
+  margin-left: 35%;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+.username
+{
+  position: absolute;
+  margin-top: 110px;
+  margin-left: 25%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+}
+
+
+.category2
+{
+  margin-top: 5px;
+  height: 50px;
+  background-color: whitesmoke;
+}
+.yue
+{
+  position: absolute;
+  margin-left: 5px;
+  margin-top: 13px;
+}
+.pocketimg
+{
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  margin: 15px;
+  margin-left: 45px;
+}
+.number
+{
+  position: absolute;
+  margin-top: 13px;
+  margin-left: 70px;
+}
+
+.yuyueimg{
+height: 20px;
+  width: 20px;
+  position: absolute;
+  margin: 15px;
+  margin-left: 80px;
+}
+
+.haoyouimg{
+height: 20px;
+  width: 20px;
+  position: absolute;
+  margin: 15px;
+  margin-left: 80px;
+}
+
+.hynumber
+{
+   position: absolute;
+  margin-top: 13px;
+  margin-left: 100px;
+}

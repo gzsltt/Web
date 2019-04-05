@@ -1,0 +1,47 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.head{
+  height: 40px;
+  text-align: center;
+  line-height: 25px;
+  background-color:black;
+  color: white;
+}
+
+.jishi{
+  height: 100px;
+  border: 1px solid gray;
+  background-color: lavender;
+}
+
+.jishi1
+{
+  position: absolute;
+  margin-top: 0px;
+  width: 100px;
+  height: 98px;
+}
+
+.intro{
+  position: absolute;
+  margin-left: 110px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+}
+

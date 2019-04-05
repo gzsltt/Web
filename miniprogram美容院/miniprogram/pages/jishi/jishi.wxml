@@ -1,0 +1,17 @@
+<!--index.wxml-->
+ <view class='head'>
+  <text>{{beauty}}</text>
+  </view>
+<view class='jishi'>
+<image  class='jishi1' src='http://img000.hc360.cn/y4/M04/05/5F/wKhQiFV5Z7eELGgGAAAAAO-XT-w736.jpg'></image>
+<text class='intro'>技师1：工作10年，擅长美甲。知道最新的潮流配色。</text>
+</view>
+<view class='jishi'>
+<image  class='jishi1' src='http://img14.360buyimg.com/popWaterMark/jfs/t739/262/1509676705/139971/814e7141/55459992N39da83f3.jpg'></image>
+<text class='intro'>技师2：工作8年，擅长脸部美容。主要负责项目：针清，光照仪器，光子嫩肤等。</text></view>
+<view class='jishi'>
+<image  class='jishi1' src='http://img001.hc360.cn/m8/M0C/20/B9/wKhQplVsGhaEGg7eAAAAAEWpXGg610.jpg'></image>
+<text class='intro'>技师3：工作15年，王牌技师。从头到脚都会美容。</text></view>
+<view class='jishi'>
+<image  class='jishi1' src='http://img4.99114.com/group10/M00/F9/65/rBADsln9I6-AT81UAANhznY6E4Q443.jpg'></image>
+<text class='intro'>技师4：工作6年，男技师，美容院里的技草，给女客人带来不一般的美容体验</text></view>

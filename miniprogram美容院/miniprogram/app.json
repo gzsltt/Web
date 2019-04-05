@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/window/window",
+    "pages/jishi/jishi",
+    "pages/user/user"
+  ],
+  "window": {
+    "navigationBarTitleText": "美容",
+    "navigationBarBackgroundColor": "#444444",
+    "navigationBarTextStyle": "white"
+  },
+
+  "tabBar":{
+    "list":[
+      {
+        "text":"首页",
+        "pagePath":"pages/window/window",
+        "iconPath":"images/icons/homepage.png",
+        "selectedIconPath":"images/icons/homepage_focus.png"
+      },
+      {
+        "text": "技师",
+        "pagePath":"pages/jishi/jishi", 
+        "iconPath": "images/icons/jishi.png",
+        "selectedIconPath":"images/icons/jishi_focus.png"
+      },
+      {
+        "text": "我的",
+        "pagePath":"pages/user/user",
+        "iconPath":"images/icons/user.png",
+        "selectedIconPath":"images/icons/user_focus.png"
+      }
+    ]
+  }
+}
