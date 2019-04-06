@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="CSS/paipai.css" rel="stylesheet" type="text/css" />
+    <!--<script language="JavaScript" src="JavaScript/form.js"></script>-->
+    <meta charset="UTF-8">
+    <title>拍拍网</title>
+</head>
+<body>
+<div id="container">
+    <div id="head">
+        <img src="images/head.jpg">
+    </div>
+    <div id="body">
+        <form>
+            <p>以下均为必填项</p>
+            <table>
+                <!--<tr>-->
+                <!--<td colspan="3">以下均为必填项</td>-->
+                <!--</tr>-->
+                <tr>
+                    <td class="introduce">请填写您的Email地址：</td>
+                    <td class="input"><input type="text" id="inputemail" onblur="checkEmail()"/></td>
+                    <td class="note" id="checkemail">此项为必填项，请输入您的Email地址。</td>
+                </tr>
+                <tr>
+                    <td class="introduce">设置您在当当网的昵称：</td>
+                    <td class="input"><input type="text" id="inputname" onblur="checkname()"/></td>
+                    <td class="note" id="checkname">此项为必填项，请输入您的昵称。</td>
+                </tr>
+                <tr>
+                    <td class="introduce">设置密码：</td>
+                    <td class="input"><input type="password" id="inputpassword" onblur="checkpassword()"/></td>
+                    <td class="note" id="checkpassword">此项为必填项，请输入您的密码。</td>
+                </tr>
+                <tr>
+                    <td class="introduce">再次输入您设置的密码：</td>
+                    <td class="input"><input type="password" id="reinputpassword" onblur="recheckpassword()"/></td>
+                    <td class="note" id="recheckpassword">此项为必填项，请再次输入您的密码。</td>
+                </tr>
+                <tr>
+                    <td colspan="3" class="checkbox"><input type="checkbox">我已阅读并同意<a>《当当网交易条款》</a>和<a>《当当网用户使用条款》</a></td>
+                </tr>
+            </table>
+            <input type="submit" value="重置" class="submit">
+            <input type="submit" value="注册" class="submit">
+        </form>
+    </div>
+    <div id="foot">
+        <img src="images/foot.jpg">
+    </div>
+</div>
+
+</body>
+</html>
